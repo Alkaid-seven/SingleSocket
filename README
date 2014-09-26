@@ -1,1 +1,6 @@
 just a test!
+
+打开 "SingleSocketServer.py"，运行。
+打开 "SingleSocketClient.PY", 运行。
+按照提示输入信息，会返回相应的大写。
+这只是一个测试！！
